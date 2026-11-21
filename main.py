@@ -3,6 +3,7 @@
 import os
 from pathlib import Path
 
+# The potter scene steadies the reader first, so the open bowl lands as courage, not emptiness.
 TEXT = (
     "The potter's hands are wet with slip. "
     "The clay rises, wobbles, steadies. "
